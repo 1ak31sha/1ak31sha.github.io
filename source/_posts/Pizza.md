@@ -1,7 +1,7 @@
 ---
 title: La Pizza
 img: images/pizza1.jpg
-date:  2015-09-23 12:43:41
+date:  2018-10-29
 tags:
  - italian
  - comfort
@@ -9,4 +9,6 @@ tags:
 
 ### La Pizza
 
+Why didnt i tag this as a dinner food? Becuase I could (and do) eat it for breakfast lunch and dinner! 
 
+I use fleishmans yeast

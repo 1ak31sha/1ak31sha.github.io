@@ -1,16 +1,13 @@
 ---
-title: Thai Larb Vegan
+title: Thai Larb
 img: images/thai_larb1.jpg
-date:  2015-09-23 12:43:41
+date:  2018-10-28
 tags:
  - thai
  - salad
  - spicy
 ---
-
-### Thai Larb (Veganized)
-
-Today I'd like to share with you a recipe that I've veganized myself!
+This TVP based salad features Mint, Lime, Culantro, Agave, and hot peppers!
 
 It is the lesser known Thai Larb! The mint and cullantro give it
 a wonderfully refreshing flavour. The hot peppers, agave syrup,

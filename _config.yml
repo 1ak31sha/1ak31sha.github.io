@@ -4,9 +4,11 @@
 
 # Site
 title: Lakeisha's Lab
-subtitle:
-description: Recipes, Adventures, Code
-keywords: vegan, vegan recipes, pokemon go adventures
+subtitle: Rediscover Vegetables
+description: Recipes from all cultures
+keywords:
+ - vegan
+ - vegan recipes
 author: Lakeisha Pogrzeba
 language: English
 timezone: EST
@@ -15,7 +17,8 @@ timezone: EST
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :post_title/
+#permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -74,7 +77,9 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-matery
-
+search:
+  path: search.xml
+  field: post
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
