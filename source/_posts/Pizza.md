@@ -13,9 +13,7 @@ Find out my secret technique to making a cripsy Thin crust pizza!
 **Prep-time**: 30 min
 **Cook time**: 15 min per pizza
 
-This is a simple dough recipe, but its the cooking technique that really makes this pizza stand out as one
-of my favorite personally developed recipes! It results in a super crispy thin crust! Why have 1 thick pizza when
-you can have 4 thin pizzas? Thats 4 times as many vegetables!
+The pizza dough is a standard recipe, but its the cooking technique that really makes this pizza stand out as one of my favorite personally developed recipes! It results in a super crispy thin crust! Why have 1 thick pizza when you can have 4 thin pizzas? Thats 4 times as many vegetables!
 
 ### Recipe
 
@@ -26,12 +24,13 @@ This is for one batch of dough which can make 4 thin crust pizzas
 - 1 cup water
 - 8g yeast, or 1 pack fleishmans yeast
 - teaspoon of sugar
+- pinch of salt
 
 ** ~ Sauces ~ **
 
-*Option 1: Garlic and chilli*
+*Option 1: Garlic and chili*
 
-* *This is one pizza worth*
+-> This is for one pizza's worth of sauce
 
 - 2 TableSpoons Olive Oil
 - 5 minced garlic cloves
@@ -39,7 +38,7 @@ This is for one batch of dough which can make 4 thin crust pizzas
 
 *Option 2: Pesto*
 
-* *makes a large portion of pesto sauce*
+-> makes a large portion of pesto sauce
 
 - 2 cups packed basil leaves
 - 2 cloves garlic
@@ -51,9 +50,9 @@ This is for one batch of dough which can make 4 thin crust pizzas
 
 Blend!
 
-Option 3: Passata
+Option 3: Passata base
 
-This is one pizza's worth
+-> This is one pizza's worth
 - 2 Table Spoons Olive Oil
 - 4 Table Spoons Passata
 - 5 Minced Garlic Cloves
@@ -79,29 +78,19 @@ This will help the pizza crust up properly!
 
 ** ~ Roll out and Decorate ~ **
 
-1. Heres the secret rolling technique. Begin Rolling the dough on a clean surface. Focus on the round shape, flouring each side only initially.
-Then, continue rolling it out, but do not flip it. let the underside stick to the surface, and focus on rolling it out super thin.
-Continue to apply flour to the top to prevent your rolling pin (or wine bottle) from sticking to it.
-Continue until you have reach a size slightly larger than your cast iron pan.
-2. Apply some olive oil to the pan. Be slightly generous.
-3. Transfer the dough into the pan now. This could be tricky. It it falls apart, just get it all in there and press the dough back together. Roll the dough up the edges.
-4. Spread your sauce over the dough. When using passata sauce, a generous amount helps keep vegetables in place.
-5. Add your vegetables! Put the wetter ones on the outside near the criust edge, so they will dry out faster.
-6. Bake in the oven for about 15 minutes, or until desured crust crunchyness. I use a long knife to lift up the crust as a test to see its rigidy.
+*There are two ways I make the pizza. one is rolling the dough on parchment paper and cooking on a pizza stone, the other just uses a cast iron pan.
+1. Heres the secret rolling technique. Begin Rolling the dough flouring each side only initially. Then, continue rolling it out, but do not flip it. let the underside stick to the surface. Continue to apply flour to the top to prevent your rolling pin (or wine bottle) from sticking to it. This will allow you to get an ultra thin crust! Continue until you have reach a size slightly larger than your cast iron pan.
+2. Apply some olive oil to the pan. Be slightly generous. If using parchment paper, no need.
+3. Transfer the dough into the pan now. This could be tricky, and make sure not to burn yourself on the pan. It it falls apart, just get it all in there and press the dough back together. Roll the dough up the edges. If using parchment paper, just leave it on the paper and move the whole thing onto your stone after it is decorated (after steps 4,5,6)
+4. Spread your sauce over the dough. When using passata or pesto sauce, a generous amount helps keep vegetables in place.
+5. Add your vegetables! Put the wetter ones on the outside near the criust edge, so they will dry out faster. 
+6. Bake in the oven for about 15 minutes, or until desured crust crunchiness. I use a long knife to lift up the crust as a test to see its rigidy.
 
 ~ Veg Ideas ~
 
-- Olives
-- Thin Sweet potatoe slices - put near edge
-- Thin potatoe slices - put near edge
-- Tomatoes slices
-- Bell peppers
-- Red Onions
-- Artichoke hearts
-- Mushrooms
-- Oregano
-- Basil leaves - put some sauce on top of them so they dont dry out
-- Pineapple
-
+- Olives, tomatoes, oregano, red onions, mushrooms.
+- Thin Sweet potatoe slices, Pineapple stuffed crust, Green peppers.
+- Thin potatoe slices, Artichoke hearts, broccoli, tomatoe slices.
+- Basil Leaves, Tomatoes slices, vegan feta
 
 
