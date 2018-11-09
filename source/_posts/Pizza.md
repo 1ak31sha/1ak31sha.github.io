@@ -21,8 +21,8 @@ The pizza dough is a standard recipe, but its the cooking technique that really 
 
 This is for one batch of dough which can make 4 thin crust pizzas
 - 2 cups flour
-- 1 cup water
-- 8g yeast, or 1 pack fleishmans yeast
+- 1 cup water💦
+- 8g yeast, or 1 pack fleishmans yeast🍞
 - teaspoon of sugar
 - pinch of salt
 
@@ -34,13 +34,14 @@ This is for one batch of dough which can make 4 thin crust pizzas
 
 - 2 TableSpoons Olive Oil
 - 5 minced garlic cloves
-- 1 cherry pepper or wiri wiri pepper
+- 1 cherry pepper or wiri wiri pepper🌶
+
 
 *Option 2: Pesto*
 
 -> makes a large portion of pesto sauce
 
-- 2 cups packed basil leaves
+- 2 cups packed basil leaves🍃
 - 2 cloves garlic
 - 1/4 cup pine nuts or walnuts
 - 2/3 cup olive oil
@@ -54,7 +55,7 @@ Option 3: Passata base
 
 -> This is one pizza's worth
 - 2 Table Spoons Olive Oil
-- 4 Table Spoons Passata
+- 4 Table Spoons Passata🥫
 - 5 Minced Garlic Cloves
 - half a medium sized onion, minced
 
@@ -62,7 +63,7 @@ Option 3: Passata base
 
 ** ~ Pre ~ **
 
-1. Pre-Heat oven to 500F. I would try with even hotter, but this is the highest my oven goes!
+1. Pre-Heat oven to 500F🌡. I would try with even hotter, but this is the highest my oven goes!
 2. If you are using any wet vegetables or mushrooms, Cut them up and place on a rack in the oven to dehydrate
 This will help the pizza crust up properly!
 
@@ -88,9 +89,9 @@ This will help the pizza crust up properly!
 
 ~ Veg Ideas ~
 
-- Olives, tomatoes, oregano, red onions, mushrooms.
-- Thin Sweet potatoe slices, Pineapple stuffed crust, Green peppers.
-- Thin potatoe slices, Artichoke hearts, broccoli, tomatoe slices.
-- Basil Leaves, Tomatoes slices, vegan feta
+- Olives, tomatoes 🍅, oregano, red onions, mushrooms.
+- 😍😍😍Thin Sweet potatoe slices🍠, Pineapple stuffed crust🍍, Green peppers.
+- Thin potatoe slices, Artichoke hearts, broccoli, tomatoe slices, Arugula
+- Basil Leaves🍃, Tomatoes slices 🍅, vegan feta 🧀
 
 
