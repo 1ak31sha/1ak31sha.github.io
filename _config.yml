@@ -4,11 +4,14 @@
 
 # Site
 title: Lakeisha's Lab
-subtitle: Rediscover Vegetables
+subtitle: How can you have any pudding if you dont eat your veg?
 description: Recipes from all cultures
 keywords:
  - vegan
  - vegan recipes
+ - cultural food
+ - veg
+ - healthy food
 author: Lakeisha Pogrzeba
 language: English
 timezone: EST
@@ -80,6 +83,9 @@ theme: hexo-theme-matery
 search:
   path: search.xml
   field: post
+
+marked:
+  gfm: true
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
