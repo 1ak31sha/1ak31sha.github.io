@@ -69,9 +69,10 @@ This will help the pizza crust up properly!
 
 ** ~ Dough ~ **
 
-1. Start with half a cup of tap-warm water. (I currently live in Toronto so we have the best tap-water in the world :p)
+1. Start with half a cup of tap-warm water,
 2. Add the yeast and sugar. Give a lil stir. The sugar is food for your yeast! If your yeast is not expired or dead, it will begin to foam up in about a minute or two.
 3. Let it sit for 8 more minutes. There should be a lot of foam!
+
 4. Add the flour, yeast water, and remaining half of cup water to a large bowl and mix.
 5. Cover the bowl with a cloth and let sit for another 20-30 minutes.
 6. During this waiting time, you can prep any vegetables
