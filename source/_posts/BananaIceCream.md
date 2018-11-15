@@ -33,4 +33,9 @@ My own Ice cream recipe after much experimentation! Creamy 🥥  base has 🍌ta
 10. Enjoy!!
 
 ![banana_ice_cream](/images/banana_ice_Cream.jpeg)
+<hr>
+### Notes
 
+- Xanathan gum can be found at freshco or online. I have the one from Bob's mill brand.
+- Agave Syrup can be found in most high end grocery stores now like Loblaws, Sobeys, Whole Foods etc
+- For the Coconut milk, I recommend the Aroy-D brand, the one in green can.
