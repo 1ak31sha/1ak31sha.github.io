@@ -1,10 +1,12 @@
 ---
 title: Scrambled Tofu
 img: images/scrambledTofu.jpg
+img2: images/scrambledTofu4.jpg
 date:  2018-11-03 11:17:00
 tags:
  - breakfast
 ---
+
 Hearty and simple yet Flavourful Scrambled Tofu!
 
 This dish is so delicious and comforting! Its packed with protein, no LDL cholesterol, and Tofu has a much longer expiry date than eggs, so its easy to keep the 
@@ -54,6 +56,4 @@ Then mash it down with a potatoe masher or something.
 
 Well, it probably is, but do a taste test, and adjust the salt or spices to your liking
 
-
-
-
+![tofu](/images/scrambledTofu5.jpg)
