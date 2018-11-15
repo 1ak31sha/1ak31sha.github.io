@@ -1,0 +1,36 @@
+---
+title: Banana Ice Cream
+img: images/
+date:  2018-11-14 23:11:00
+tags:
+ - Dessert
+---
+
+My own Ice cream recipe after much experimentation! Creamy 🥥  base has 🍌taste  not  t🥥t aste at all!
+
+### Recipe
+
+- 1 can chilled coconut milk or coconut cream 🥥
+- 1 brown spots banana 🍌
+- 1 table spoon agave syrup
+- 1 table spoon corn syrup
+- 1 table spoon white sugar
+- 1 teaspoon vanilla
+- 1 teaspoon xanathan gum
+
+### Method
+
+1. Make sure the coconut milk can has been in a cold fridge (or near the back) for at least a day.
+2. Open the can and scoop off the cream which has solidified and risen above the water. Add to blender.
+3. Do not add the coconut water at the bottom of the can, use it for something else like chia pudding!
+4. Add the banana, sugar, agave, corn syrup, vanilla, xanathan gum.
+5. Blend until smooth, pour into freezable bowl.
+6. Freeze for 2 hours, then take out and stir.
+7. Freeze for another half hour then take out and stir.
+8. Freeze for another half hour then take out and stir.
+9. Freeze for another half hour then take out and stir.
+9. Freeze for another half hour then take out and stir.
+10. Enjoy!!
+
+![banana_ice_cream](/images/banana_ice_Cream.jpeg)
+
