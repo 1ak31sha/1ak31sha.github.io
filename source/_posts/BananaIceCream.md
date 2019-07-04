@@ -25,7 +25,7 @@ My own Ice cream recipe after much experimentation! Creamy 🥥  base has 🍌ta
 3. Do not add the coconut water at the bottom of the can, use it for something else like chia pudding!
 4. Add the sugar, agave, corn syrup, vanilla.
 5. Heat the ingredients using a double bowl technique. This will remove clumps in the coconut cream.
-5. Add to the blender, add the banana and blend until smooth, pour into freezable bowl.
+6. Add to the blender, add the banana and blend until smooth, pour into freezable bowl.
 6. Freeze for 2 hours, then take out and stir.
 7. Freeze for another half hour then take out and stir.
 8. Freeze for another half hour then take out and stir.
