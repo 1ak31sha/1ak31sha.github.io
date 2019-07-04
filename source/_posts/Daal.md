@@ -1,6 +1,6 @@
 ---
-title: Dhal
-img: images/Dhal.jpg
+title: Daal
+img: images/daal.jpg
 date:  2018-11-14 21:57:00
 tags:
  - dinner
@@ -15,16 +15,26 @@ Fool proof recipe. Only 10 minutes of prep time! Delicious split pea recipe!
 - 1 cup yellow split peas
 - lots of water
 - half a medium onion or 2 shallots
-- 3 garlic cloves whole
-- 5 garlic cloves minced
+- 2 garlic cloves whole
+- 2 garlic cloves minced
 - 1 hot cherry pepper or wiri wiri
-- 1 teaspoon turmeric
-- 1 teaspoon Lalah's curry powder or similar
-- 1 tablespoon vegetable oil
+- 0.5 teaspoon turmeric
+- 0.5 teaspoon Lalah's curry powder or similar
+- 1 tablespoon peanut oil
 - 1 tablespoon cumin seeds
-- 2 teaspoons salt and then to taste
+- 1 teaspoon salt and then to taste
 
 ### Method
+
+With a pressure cooker:
+
+1. Wash split peas.
+1. Add all ingredients to the pressure cooker except the oil cumin seeds and minced garlic, and put it to cook on high for 50 minutes
+2. Blend the mixture using daal gutney or blender.
+3. Fry the cumin seeds in the peanut oil, then add the garlic. Add the fry to the mixture.
+
+
+Without a pressure cooker:
 
 Perform the steps in this order for maximum efficiency:
 
