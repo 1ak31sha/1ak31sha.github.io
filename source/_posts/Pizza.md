@@ -1,19 +1,21 @@
 ---
 title: La Pizza
-img: images/pizza1.jpg
+img: images/pizza/pizza1.jpg
 date:  2018-10-29
 tags:
- - italian
+ - Italian
  - comfort
 ---
 
-Find out my secret technique to making a cripsy Thin crust pizza!
-
-**Servings**: 1-4 medium thin-crust pizzas
-**Prep-time**: 30 min
-**Cook time**: 15 min per pizza
+ultra thin cripsy crust pizza !
+<br></br>
+***Servings***     4 medium thin-crust pizzas
+***Prep-time***    30 min
+***Cook time***    15 min per pizza
 
 The pizza dough is a standard recipe, but its the cooking technique that really makes this pizza stand out as one of my favorite personally developed recipes! It results in a super crispy thin crust! Why have 1 thick pizza when you can have 4 thin pizzas? Thats 4 times as many vegetables!
+
+![pizzaa](/images/pizza/pizza.jpg)
 
 ### Recipe
 
@@ -58,6 +60,8 @@ Option 3: Passata base
 - 4 Table Spoons Passata🥫
 - 5 Minced Garlic Cloves
 - half a medium sized onion, minced
+
+
 
 ### Method
 

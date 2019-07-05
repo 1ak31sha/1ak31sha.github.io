@@ -1,14 +1,16 @@
 ---
 title: Daal
-img: images/daal.jpg
+img: images/daal/daal.jpg
 date:  2018-11-14 21:57:00
 tags:
- - dinner
- - Indian
- - soup
+- West Indian
+- Indian
+- soup
+- daal
+- rice
 ---
 
-Fool proof recipe. Only 10 minutes of prep time! Delicious split pea recipe!
+yellow split pea Daal with cumin seeds, goes great with rice!
 
 ### Recipe
 
@@ -17,7 +19,7 @@ Fool proof recipe. Only 10 minutes of prep time! Delicious split pea recipe!
 - half a medium onion or 2 shallots
 - 2 garlic cloves whole
 - 2 garlic cloves minced
-- 1 hot cherry pepper or wiri wiri
+- 1-2 hot cherry pepper or wiri wiri
 - 0.5 teaspoon turmeric
 - 0.5 teaspoon Lalah's curry powder or similar
 - 1 tablespoon peanut oil
@@ -32,8 +34,11 @@ With a pressure cooker:
 1. Add all ingredients to the pressure cooker except the oil cumin seeds and minced garlic, and put it to cook on high for 50 minutes
 2. Blend the mixture using daal gutney or blender.
 3. Fry the cumin seeds in the peanut oil, then add the garlic. Add the fry to the mixture.
+4. salt to taste
 
+![daal2](/images/daal/daal2.jpg)
 
+<hr></hr>
 Without a pressure cooker:
 
 Perform the steps in this order for maximum efficiency:
@@ -57,6 +62,8 @@ You can make it thick and serve on its own or with rice, or thin(add more water)
 11. Boil down to final desired water content and turn off heat.
 12. Salt to taste and done!
 <hr>
+sometimes i like to drink it out of a cup
+![daalcup](/images/daal/daalcup.jpg)
 Lalah's curry powder: find it at Bestco or grocery with Caribbean items.
 ![lalahs](/images/lalas.jpeg)
 

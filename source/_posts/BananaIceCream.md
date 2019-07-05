@@ -6,12 +6,14 @@ tags:
  - Dessert
 ---
 
-My own Ice cream recipe after much experimentation! Creamy 🥥  base has 🍌taste  not  t🥥t aste at all!
+Creamy scoopable 🥥 🍌 ice cream!
+
+
 
 ### Recipe
 
 - 1 can chilled coconut milk or coconut cream 🥥
-- 1 brown spots banana 🍌
+- 1 very ripe banana 🍌
 - 1 table spoon agave syrup
 - 1 table spoon corn syrup
 - 1 table spoon white sugar
