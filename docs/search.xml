@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search> 
   
+  
     
     <entry>
       <title>Shahi Tofu</title>
@@ -19,6 +20,134 @@
       
     </entry>
     
+    
+    
+    <entry>
+      <title>Pad Thai</title>
+      <link href="/pad-thai/"/>
+      <url>/pad-thai/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/lalas.jpeg" alt="lalahs"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thai </tag>
+            
+            <tag> Spicy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>General Tofu</title>
+      <link href="/general-tofu/"/>
+      <url>/general-tofu/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="images/generalTofu/generaltofu_thumb.jpg" alt="lalahs"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> comfort </tag>
+            
+            <tag> Asian </tag>
+            
+            <tag> tofu </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>......Sushi</title>
+      <link href="/sushi/"/>
+      <url>/sushi/</url>
+      
+        <content type="html"><![CDATA[<p>Avocado, cucumber, cripsy tofu, teryaki :p</p><p><strong><em>Servings</em></strong>:<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/sushi/sushi.jpg" alt="lalahs"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Asian </tag>
+            
+            <tag> Rice </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Chickpea Coconut Curry</title>
+      <link href="/chickpea-coconut-curry/"/>
+      <url>/chickpea-coconut-curry/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/lalas.jpeg" alt="lalahs"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Indian </tag>
+            
+            <tag> Curry </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Mac</title>
+      <link href="/mac/"/>
+      <url>/mac/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/mac/macingredient.jpg" alt="mac1"><br><img src="/images/mac/mac1.jpg" alt="mac1"><br><img src="/images/mac/mac2.jpg" alt="mac2"><br><img src="/images/mac/mac3.jpg" alt="mac3"><br><img src="/images/mac/mac4.jpg" alt="mac4"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thai </tag>
+            
+            <tag> Spicy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Oatmeal</title>
+      <link href="/oatmeal/"/>
+      <url>/oatmeal/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/lalas.jpeg" alt="lalahs"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Breakfast </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
     <entry>
       <title>Banana Ice Cream</title>
       <link href="/banana-ice-cream/"/>
@@ -35,6 +164,8 @@
         </tags>
       
     </entry>
+    
+    
     
     <entry>
       <title>Daal</title>
@@ -61,6 +192,113 @@
       
     </entry>
     
+    
+    
+    <entry>
+      <title>Roti</title>
+      <link href="/roti/"/>
+      <url>/roti/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/lalas.jpeg" alt="lalahs"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thai </tag>
+            
+            <tag> Spicy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Pesto Pasta</title>
+      <link href="/pesto-pasta/"/>
+      <url>/pesto-pasta/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/lalas.jpeg" alt="lalahs"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thai </tag>
+            
+            <tag> Spicy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Thai curry</title>
+      <link href="/thai-curry/"/>
+      <url>/thai-curry/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/lalas.jpeg" alt="lalahs"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thai </tag>
+            
+            <tag> Spicy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Bagi</title>
+      <link href="/bagi/"/>
+      <url>/bagi/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/lalas.jpeg" alt="lalahs"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thai </tag>
+            
+            <tag> Spicy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Baigon Choka</title>
+      <link href="/baigon-choka/"/>
+      <url>/baigon-choka/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/lalas.jpeg" alt="lalahs"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thai </tag>
+            
+            <tag> Spicy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
     <entry>
       <title>Scrambled Tofu</title>
       <link href="/scrambled-tofu/"/>
@@ -77,6 +315,27 @@
         </tags>
       
     </entry>
+    
+    
+    
+    <entry>
+      <title>Enchiladas</title>
+      <link href="/enchiladas/"/>
+      <url>/enchiladas/</url>
+      
+        <content type="html"><![CDATA[<preview text=""><p><strong><em>Servings</em></strong>: 4-6 Enchiladas<br><strong>Prep-time</strong>:<br><strong>Cook time</strong>: </p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="/images/lalas.jpeg" alt="lalahs"></p></preview>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mexican </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
     
     <entry>
       <title>La Pizza</title>
@@ -96,6 +355,8 @@
         </tags>
       
     </entry>
+    
+    
     
     <entry>
       <title>Thai Curry paste</title>
@@ -118,6 +379,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>Thai Larb</title>
       <link href="/thai-larb/"/>
@@ -138,6 +401,28 @@
         </tags>
       
     </entry>
+    
+    
+    
+    <entry>
+      <title>Pumpkin Pie</title>
+      <link href="/pumpkin-pie/"/>
+      <url>/pumpkin-pie/</url>
+      
+        <content type="html"><![CDATA[<p><strong><em>Servings</em></strong>: 1-4 medium thin-crust pizzas<br><strong>Prep-time</strong>: 30 min<br><strong>Cook time</strong>: 15 min per pizza</p><h3 id="Recipe"><a href="#Recipe" class="headerlink" title="Recipe"></a>Recipe</h3><p>-</p><h3 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h3><p>1.</p><p><img src="images/pumpkinpie/pumpkinpie.jpg" alt="lalahs"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Thai </tag>
+            
+            <tag> Spicy </tag>
+            
+        </tags>
+      
+    </entry>
+    
     
   
   

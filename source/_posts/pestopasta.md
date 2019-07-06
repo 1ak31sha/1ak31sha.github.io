@@ -1,6 +1,6 @@
 ---
-title:
-img: images/
+title: Pesto Pasta
+img: images/pestopasta/pestopasta_thumb.jpg
 date:  2018-11-14 21:57:00
 tags:
  - Thai
