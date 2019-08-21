@@ -14,13 +14,24 @@ tags:
 
 ### Recipe
 
+1 cup oat milk
+1 cup oats
+1 apple in bite size pieces
+1 teaspoon cinnamon
+2 large dates
+1 scoop almond butter
+
+other toppings like toasted coconut, hemp seeds etc
+
 -
 
 ### Method
 
-1.
+1. boil the apple and dates first. mash and dissolve the date into the milk with your spoon.
+2. turn off the heat and add the oats, cinnamon, nutmeg, pumpkin spice, etc
+3. adjust thickness with more oats or toppings
 
-![lalahs](/images/lalas.jpeg)
+
 
 
 
