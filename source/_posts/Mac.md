@@ -55,9 +55,10 @@ and lack on onion and garlic
 2. Chop your broccoli into small pieces and place in a strainer over your
 boiling ingredients to steam it. 🚂
 3. Rinse your pasta noodles and cook in 'salty like the sea' water until desired
-softness. 🍝 4. Chop your mushrooms and put them in a pan with medium heat to
-cook. Season with taco style seasoning or whatever else you like. Mushrroms
-taste great on their own, just some salt might be good for you or if you dont
+softness. 🍝
+4. Chop your mushrooms and put them in a pan with medium heat to
+cook. Season with taco style seasoning or whatever else you like. Mushrooms
+taste great on their own, just some salt might be good for you or if you don't
 have the taco seasoning. Oil to fry them in is optional, I find mushrooms don't
 really stick to the pan so I skip the oil since its actually not a health food.
 5. When potatoes are soft, the boiling ingredients are ready to be blended. Add
