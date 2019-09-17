@@ -6,11 +6,11 @@ tags:
  - Caribbean
 ---
 
-<preview text>
+Having trouble
 
-***Servings***: 
-**Prep-time**: 30 min
-**Cook time**: 15 min per pizza
+***Servings***:
+***Prep-time***: 30 min
+***Cook time***: 15 min per pizza
 
 ### Recipe
 
@@ -19,14 +19,14 @@ tags:
 1/2 yellow onion
 3 garlic
 1-2 wiri wiri
-1 tablespoon coconut cream
+2 teaspoon coconut cream
 1 teaspoon salt and to taste
 1 teaspoon oil
 
 ### Method
 
-1. Fry the onion garlic and pepper in the oil.
-2. add all of the greens. Have them chopped fine. Cook down on medium heat
+1. Fry the onion garlic and pepper in the oil or water fry it.
+2. Add all of the greens. Have them chopped fine. Cook down on medium heat
 3. Once greens are reduced, add coconut cream and salt
 
 serve with rice or roti

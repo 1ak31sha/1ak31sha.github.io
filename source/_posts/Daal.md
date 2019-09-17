@@ -5,12 +5,11 @@ date:  2018-11-14 21:57:00
 tags:
 - West Indian
 - Indian
-- soup
-- daal
-- rice
+- Daal
+- Rice
 ---
 
-yellow split pea Daal with cumin seeds, goes great with rice!
+Yellow split pea Daal with roasted garlic & cumin seeds, goes great with rice!
 
 ### Recipe
 
