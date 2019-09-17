@@ -14,6 +14,7 @@ Cashew and nooch based mac sauce with broccoli and mushrooms
 ***Cook time***: 20 min
 
 ![mac1](/images/mac/mac_broc.jpg)
+Note: I double the recipe in this photo
 
 ### Recipe
 
@@ -82,4 +83,6 @@ With home grown arugula sprouts 🌱
 
 
 NOM NOM
+
+Recipe adapted from https://veganyumminess.com/creamy-vegan-mac-and-cheese/
 
