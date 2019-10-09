@@ -8,11 +8,11 @@ tags:
  - comfort
 ---
 
-<preview text>
+Recipe coming soon
 
-***Servings***: 1-4 medium thin-crust pizzas
-**Prep-time**: 30 min
-**Cook time**: 15 min per pizza
+***Servings***:
+**Prep-time**:
+**Cook time**:
 
 ### Recipe
 

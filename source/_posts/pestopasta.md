@@ -7,7 +7,7 @@ tags:
  - Spicy
 ---
 
-<preview text>
+Recipe coming soon
 
 ***Servings***: 1-4 medium thin-crust pizzas
 **Prep-time**: 30 min

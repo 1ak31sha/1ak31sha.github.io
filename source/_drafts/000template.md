@@ -21,7 +21,7 @@ tags:
 
 1.
 
-![lalahs](/images/lalas.jpeg)
+![lalahs](/images/lalas.jpg)
 
 
 

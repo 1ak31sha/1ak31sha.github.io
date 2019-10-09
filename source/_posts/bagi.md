@@ -6,7 +6,7 @@ tags:
  - Caribbean
 ---
 
-Having trouble
+Carribean greens recipe. Updated recipe coming soon.
 
 ***Servings***:
 ***Prep-time***: 30 min
