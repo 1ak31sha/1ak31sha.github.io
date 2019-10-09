@@ -1,6 +1,6 @@
 ---
 title: Peri Peri Sauce
-img: /images/periperi/periperitofu_thumb.jpg
+img: images/periperi/periperitofu_thumb.jpg
 date:  2019-10-08 21:57:00
 tags:
  - South African
@@ -9,7 +9,7 @@ tags:
  - Sauce
 ---
 
-A spicy sauce made originally from Peri Peri peppers that goes great on so many things
+A spicy tangy sauce that goes great on so many things
 
 ***Servings***: Almost a Liter of sauce
 ***Prep-time***: 10 mins
