@@ -1,6 +1,6 @@
 ---
 title: Thai Curry paste
-img: images/thai_curry_paste_cropped.jpg
+img: images/thaicurrypaste/thai_curry_paste_cropped.jpg
 date:  2018-10-29
 tags:
  - thai
@@ -14,32 +14,49 @@ This curry paste will resemble a Red Thai curry, but its color can vary dependin
 ### Recipe
 
 *Equal parts of:*
-- Galangal (never heard of it? pictures below)
-- Fresh Turmeric
-- Onion
-- Garlic
-- Lemongrass
-- Keffir Lime rind (or keffir lime leaves if you cant find)
-- Dried red chillies 🌶 (omit if you're going for a green curry)
-- Fresh hot peppers of your liking (I like to use wiri wiri, but Thai bird chillies are the OG)
-- Fresh Ginseng (I've yet to find this in Toronto and have always omitted it.)
+- 50 g Galangal (never heard of it? pictures below)
+- 50 g Fresh Turmeric
+- 50 g Onion
+- 50 g Garlic
+- 50 g Lemongrass
+- one Keffir Lime rind (or 2 keffir lime leaves if you cant find)(optional)
+- 50 deseed dried red chillies 🌶 (sounds like a lot but trust me it wont be very spicy - you will deseed)
+- 50 g Fresh Ginseng (optional. Hard to find so ive often omitted it. Try to find at TNT)
+- 2 tablespoon Coriander seeds
+- 1 tablespoon salt
 
-*Half portion compared with above ingredients:*
-- Coriander seeds
-- Your choice of oil. I recommend grapeseed🍇.
 
 ### Method
 
-When I make this, I try to make as much as possible! So I choose an ingredient size that will fill my blender to the top.
+When I make this, I try to make as much as possible! So I choose an ingredient
+size that will fill my blender to the top. 50 grams of each ingredient fills my
+vitamix. You could cut the recipe in half if you want just enough paste for one
+recipe.
 
-1. Cut the ingredients into small pieces so that they will blender easier, unless you have a beast of a blender!
-2. Add everything to your blender and blend well! Try to get it blended to the point where there are no more strands of lemongrass fiber. Add a bit more oil or water if you need to help it blend. MY blender comes with a plastic rod that I jam into the blender while its going to push everything down and help it along.
-3. Store in fridge. Can last at least 3 weeks.
+1. Cut the ingredients into small pieces so that they will blender easier,
+unless you have a beast of a blender!
+
+2. Place all ingredients except the coriander seeds into a large pot with
+enough water to almost cover the ingredients. Bring to boil on high for about 25
+minutes. Top up the water a bit if it all evaporates to prevent anything burning to the bottom.
+
+3. Get a small pan and roast the coriander seeds until brown but not black. Then
+add them to the mixture in the pot as well. (Do this early on, don't wait the 25
+minutes to add this)
+
+4. Add everything to your blender and blend well! Try to get it blended to the
+point where there are no more strands of lemon grass fiber. Add a bit more water
+if you need to help it blend. My blender comes with a plastic rod that I
+jam into the blender while its going to push everything down and help it along.
+But since we boiled the ingredients, you should not have any issues.
+
+5. Store in fridge. Can last at least 3 weeks.
 
 
 ##### Galangal
 This one can be hard to find. Sometimes the TNT on Cherry Road has it, but the TNT in mississauaga is more a gaurantee. You can also try Sunny's or Bestco or any other Chinese/Thai Grocery stores.
 The taste is quite different than Ginger. Its more sweet and bitter rather than spicy like ginger. It can also be called Thai Ginger.
-![galangal](/images/single-red-galangal.jpg)
+
+![galangal](/images/000ingredients/single-red-galangal.jpg)
 
 

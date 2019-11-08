@@ -64,6 +64,6 @@ You can make it thick and serve on its own or with rice, or thin(add more water)
 sometimes i like to drink it out of a cup
 ![daalcup](/images/daal/daalcup.jpg)
 Lalah's curry powder: find it at Bestco or grocery with Caribbean items.
-![lalahs](/images/lalas.jpeg)
+![lalahs](/images/000ingredients/lalas.jpeg)
 
 

@@ -1,7 +1,7 @@
 ---
 title: Next Next Level Enchiladas
 date: 2019-08-20
-img: images/enchilada_final3.png
+img: images/enchilada/enchilada_final3.png
 tags:
  - Mexican
  - Leftovers
@@ -39,7 +39,7 @@ Oil free version based on recipe by Oh She Glows. Link for ref at the bottom.
 - 1 cup black beans
 - handful sundried tomatoes (not in oil - i find these at whole foods)
 - 5-6 tortilla wraps. @Wholefoods has some really good vegan ones like spinach or sun-dried tomato
-![ench](/images/enchilada_final3.png)
+![ench](/images/enchilada/enchilada_final3.png)
 
 #### Avocado Cream (optional)
 - 3/4 cup raw cashews

@@ -1,6 +1,6 @@
 ---
 title: Thai Larb
-img: images/thai_larb1.jpg
+img: images/thailarb/thai_larb1.jpg
 date:  2018-10-28
 tags:
  - thai

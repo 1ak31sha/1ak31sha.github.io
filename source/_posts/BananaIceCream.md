@@ -1,6 +1,6 @@
 ---
 title: Banana Ice Cream
-img: images/icecream.jpg
+img: images/icecream/icecream.jpg
 date:  2018-11-14 23:11:00
 tags:
  - Dessert
@@ -35,7 +35,7 @@ Creamy scoopable 🥥 🍌 ice cream!
 9. Freeze for another half hour then take out and stir.
 10. Enjoy!!
 
-![banana_ice_cream](/images/banana_ice_Cream.jpeg)
+![banana_ice_cream](/images/icecream/banana_ice_Cream.jpeg)
 <hr>
 ### Notes
 

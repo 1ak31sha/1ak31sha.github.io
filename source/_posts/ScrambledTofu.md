@@ -1,7 +1,7 @@
 ---
 title: Scrambled Tofu
-img: images/scrambledTofu.jpg
-img2: images/scrambledTofu4.jpg
+img: images/scrambledtofu/scrambledTofu.jpg
+img2: images/scrambledtofu/scrambledTofu4.jpg
 date:  2018-11-03 11:17:00
 tags:
  - breakfast
@@ -29,7 +29,7 @@ ingredients on hand!
 
 ** ~ Prep the vegetables ~ **
 
-1. Dice your onion and tomatoe, mince your garlic. If you are using hot pepper, chop that up too.
+1. Dice your onion and tomato, mince your garlic. If you are using hot pepper, chop that up too.
 
 2. Add the oil to your pan. Set stove to high to get oil heated quickly, then bring it back down to 4/10
 
@@ -37,23 +37,20 @@ ingredients on hand!
 
 4. Then add in the garlic. Fry for another minute or until fragrant. Do not let in get brown.
 
-5. Add in the tomatoe. Add the whole thing, not to loose any juices.
+5. Add in the tomato. Add the whole thing, not to loose any juices.
 If you have frozen tomatoes, just microwave on a plate for 4 minutes.
-Then mash it down with a potatoe masher or something.
+Then mash it down with a potato masher or something.
 
-6. Add the chilli pepper now as well if using.
+6. Add the chili pepper now as well if using.
 
 7. Add the Salt, black pepper, Cumin and Thyme.
 
 8. Start crumbling in your tofu.
 
-9. Sprinkle the Tumeric powder over the tofu now to give it that color(and also its anti-inflamatory and anti-oxidant properties!)
+9. Sprinkle the Turmeric powder over the tofu now to give it that color
 
-10. Mix everything down and cook for a couple more minutes, until all liquid is absorbed/evaporated.
-
+10. Mix everything down and cook for a couple more minutes, until all liquid is absorbed/evaporated. salt and pepper to taste.
 
 ** ~Its done!~ **
 
-Well, it probably is, but do a taste test, and adjust the salt or spices to your liking
-
-![tofu](/images/scrambledTofu5.jpg)
+![tofu](/images/scrambledtofu/scrambledTofu5.jpg)
