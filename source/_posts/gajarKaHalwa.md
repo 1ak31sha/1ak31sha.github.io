@@ -19,7 +19,7 @@ A sweet Indian dessert made from carrots that is actually healthy!
 
 - 4 cups shredded carrot(thickest organic carrots you can find) 🥕
 - 4 cups almond milk 🥛
-- 12 cashews or 18g of cashews
+- 12 cashews or 18g of cashews 👠
 - 4 dates 💕
 - crushed seeds of 6 green cardamom 💚
 - 1 tsp peanut oil (optional) 🥜
@@ -69,8 +69,8 @@ A sweet Indian dessert made from carrots that is actually healthy!
 ![halwa](/images/halwa/halwa8.jpg)
 
 8. This is roughly what the texture should be like. No more liquid. So far from
-   my experience, the vegan version does not stay so orange perhaps due to the
-   almond milk -- but I assure you it will TASTE AMAZING. I prefer my halwa not
+   my experience, the vegan version doesn't stay <b style="color: orange">orange</b> perhaps due to the
+   almond milk and cashews -- but I assure you it will taste amazing! I prefer my halwa not
    too sweet so that I can eat more of it, so 4 dates is good for me, but if you
    prefer sweeter, just add more dates or sugar or agave ect. You may also like
    to add a pinch of salt.

@@ -20,7 +20,7 @@ Carribean greens recipe. Updated recipe coming soon.
 3 garlic
 1-2 wiri wiri
 2 teaspoon coconut cream
-1 teaspoon salt and to taste
+1 teaspoon salt to taste
 1 teaspoon oil
 
 ### Method

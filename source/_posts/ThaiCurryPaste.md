@@ -18,7 +18,7 @@ This curry paste will resemble a Red Thai curry, but its color can vary dependin
 - 50 g Fresh Turmeric
 - 50 g Onion
 - 50 g Garlic
-- 50 g Lemongrass
+- 50 g Lemongrass(optional)
 - one Keffir Lime rind (or 2 keffir lime leaves if you cant find)(optional)
 - 50 deseed dried red chillies 🌶 (sounds like a lot but trust me it wont be very spicy - you will deseed)
 - 50 g Fresh Ginseng (optional. Hard to find so ive often omitted it. Try to find at TNT)
@@ -52,6 +52,8 @@ But since we boiled the ingredients, you should not have any issues.
 
 5. Store in fridge. Can last at least 3 weeks.
 
+![curry_raw](/images/thaicurrypaste/curry_raw.jpg)
+![deseeded](/images/thaicurrypaste/deseeded.jpg)
 
 ##### Galangal
 This one can be hard to find. Sometimes the TNT on Cherry Road has it, but the TNT in mississauaga is more a gaurantee. You can also try Sunny's or Bestco or any other Chinese/Thai Grocery stores.
