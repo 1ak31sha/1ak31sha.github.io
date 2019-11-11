@@ -80,3 +80,5 @@ A sweet Indian dessert made from carrots that is actually healthy!
 9. Serve with nuts and dried fruit of your choice :)
 
 ![halwa](/images/halwa/halwa10.jpg)
+![nutritional](/images/halwa/label.png)
+![halwaprotein](/images/halwa/protein.png)
