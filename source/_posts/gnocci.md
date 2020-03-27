@@ -1,6 +1,6 @@
 ---
 title: Gnocchi
-img: images/
+img: images/gnocchi/potato.jpg
 date:  2019-11-20 00:00:00
 tags:
  - Italian
