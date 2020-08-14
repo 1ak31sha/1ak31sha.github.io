@@ -7,13 +7,12 @@ tags:
  - Oil free
 ---
 
-Oil free salad dresing
+Oil free salad dressing
 
 ***Servings***: 1 big salad
 ***Prep-time***: 2 minutes
 
 ### Recipe
-
 - 2 tbsp tahini
 - 2 tbsp soy sauce
 - 1 tbsp maple syrup
@@ -23,5 +22,5 @@ Oil free salad dresing
 
 1. Mix it all up in a bowl
 
-![lalahs](/images/lalas.jpg)
+![lalah's](/images/lalas.jpg)
 
